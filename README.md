@@ -7,7 +7,9 @@
   </a>  
 </div>
 
-Hi there 👋, I'm Jonas Birmé, and I am a streaming tech guy, VP R&D at [Eyevinn Technology](https://www.eyevinntechnology.se) and open source software contributor.
+###  Hi there 👋
+
+I'm Jonas Birmé, and I am a streaming tech guy, VP R&D at [Eyevinn Technology](https://www.eyevinntechnology.se) and open source software contributor.
 
 
 <!--
